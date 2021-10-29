@@ -1,0 +1,12 @@
+img {
+    width: 20rem;
+    height: 20rem;
+    margin-right: 4rem;
+    margin-top: 3rem;
+}
+.parent {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
